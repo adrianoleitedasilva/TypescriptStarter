@@ -38,16 +38,6 @@ Ou usando o `tsconfig.json` local:
 tsc
 ```
 
-## Configuração TypeScript
-
-O projeto usa uma configuração estrita (`strict: true`) com as seguintes opções habilitadas:
-
-- `noUncheckedIndexedAccess` — acesso seguro a índices de arrays
-- `exactOptionalPropertyTypes` — propriedades opcionais precisas
-- `sourceMap` — mapas de origem para debug
-- `declaration` — geração de arquivos `.d.ts`
-- `jsx: react-jsx` — suporte a React JSX
-
 ## Tecnologias
 
 - [TypeScript](https://www.typescriptlang.org/)
